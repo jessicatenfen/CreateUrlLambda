@@ -8,6 +8,8 @@
 
 This function belongs to a serverless URL shortening service built with AWS services, including Lambda, API Gateway, and S3. AWS services enable the creation of scalable and cost-efficient applications. This project was developed during a free Rocketseat event.
 
+This function saves the information of the original URL and generates an unique UUID that will be used to acess the original URL. 
+
 ## :large_blue_diamond: Technologies
 
 The following tools were used in this project:
