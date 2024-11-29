@@ -6,8 +6,7 @@
 
 ## :page_with_curl: About
 
-This function belong to a project that delivers a serveless URL shortening service that was built with AWS services, using Lambda, API Gateway and S3. AWS services permit that we build scalabre and cost-efficient applications. 
-This project was developed during a free Rocketseat event.
+This function belongs to a serverless URL shortening service built with AWS services, including Lambda, API Gateway, and S3. AWS services enable the creation of scalable and cost-efficient applications. This project was developed during a free Rocketseat event.
 
 ## :large_blue_diamond: Technologies
 
